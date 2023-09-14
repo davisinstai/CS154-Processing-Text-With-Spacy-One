@@ -1,0 +1,3 @@
+celery.sqlite
+celerybeat-schedule
+django-errors.log
